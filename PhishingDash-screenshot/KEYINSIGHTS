@@ -1,1 +1,29 @@
 DASHBOARDS/PhishingDash-screenshot
+
+Key Questions
+1.	What percentage of URLs analyzed are phishing links?
+2.	How do phishing links differ from legitimate links based on key metrics such as Safe Anchor, Link_in_tags, and Page Rank?
+3.	What percentage of web traffic is being diverted to phishing sites?
+4.	How can the identified trends inform strategies to mitigate phishing attacks?
+
+Key insights and rcommendations
+1.50% of the URLS analyzed are phishing links.
+2. Safe Anchor and Link-in-Tags as Indicators:
+Legitimate URLs generally exhibit higher safe anchor (above 43.94) and link-in-tag values (above 60) compared to phishing URLs (below 30.29 safe anchor and 44 links_in_tags)
+3.A concerning 57% of web traffic is directed to phishing URLs.
+4.Phishing URLs are currently receiving a higher proportion of web traffic, highlighting the need for stronger mitigation strategies.
+This indicates a significant threat to customer data and brand reputation.
+
+Recommendations made:
+1. Real-time Monitoring and Response
+2. Enhanced URL Filtering
+3. Proactive Customer Communication
+4. Data-Driven Decision Making: Continuously analyze website traffic data to identify emerging threats and adjust security measures accordingly.
+
+
+
+
+
+
+
+
