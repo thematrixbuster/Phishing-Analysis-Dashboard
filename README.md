@@ -38,6 +38,12 @@ Data Collection & Cleaning:
 -	Established strong correlations between URL attributes and phishing risks, such as Page Rank "0" having a 96% phishing rate.
 -	Delivered insights into traffic vulnerabilities and areas requiring security enhancement.
 
+**Instrumentation**
+
+Tools: Excel for data cleaning & analysis, Power BI for visualization, Jupyter Notebook for analysis.
+
+
+
 
 **Actionable Insights:** 
 1. Real-time Monitoring and Response:
